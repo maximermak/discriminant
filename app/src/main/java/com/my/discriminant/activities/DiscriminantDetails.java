@@ -41,7 +41,7 @@ public class DiscriminantDetails extends AppCompatActivity {
     };
 
     private void calculate() {
-        String result = "";
+         String result = "";
         String textA = a.getText().toString();
         String textB = b.getText().toString();
         String textC = c.getText().toString();
